@@ -7,6 +7,7 @@ import vk
 import curses
 import asyncio
 import requests
+import os
 upperlevel=\
 {
 '''
