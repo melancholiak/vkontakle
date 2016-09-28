@@ -8,15 +8,3 @@ import curses
 import asyncio
 import requests
 import os
-upperlevel=\
-{
-'''
-	upperlevel is a selector which sends control to selection choosen.
-'''
-	'My profile':None,
-	'News':None,
-	'Messages':None,
-	'Contacts':None,
-	'Groups':None,
-	'Tracks':None
-}
